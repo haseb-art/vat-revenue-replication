@@ -1,0 +1,4 @@
+data/*.xlsx
+data/*.pkl
+out/
+__pycache__/
